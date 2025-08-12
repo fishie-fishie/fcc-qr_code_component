@@ -23,8 +23,8 @@ p {
 }
 
 .rectangle{
-    height: fit-content;
-    width: fit-content;
+    height: 100px;
+    width: 100px;
     color: lightgreen;
 }
 
