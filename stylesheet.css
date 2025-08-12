@@ -22,6 +22,10 @@ img{
     
 }
 
+body{
+    background-color:bisque;
+}
+
 .attribution { 
     font-family: "Outfit", sans-serif;
     font-size: 11px; 
@@ -35,7 +39,7 @@ img{
 .rectangle{
     height: 500px;
     width: 300px;
-    background-color: lightgreen;
+    background-color: white;
     border-radius: 5%;
     align-content: center;
 }
