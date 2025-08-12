@@ -1,0 +1,9 @@
+h3, p {
+    font-family: "Outfit", sans-serif;
+
+}
+
+@font-face{
+    font-family: "Outfit";
+    src: url('typefaces/Outfit-Regular.ttf') format("truetype");
+}
