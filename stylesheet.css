@@ -25,7 +25,7 @@ p {
 .rectangle{
     height: 100px;
     width: 100px;
-    color: lightgreen;
+    background-color: lightgreen;
 }
 
 @font-face{
