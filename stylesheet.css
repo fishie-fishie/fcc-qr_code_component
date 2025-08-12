@@ -1,15 +1,17 @@
 h3 {
     font-family: "Outfit", sans-serif;
-    color:aquamarine;
+    color:black;
     font-size: 15px; 
     text-align: center;
+    font-weight: 700;
 }
 
 p {
     font-family: "Outfit", sans-serif;
-    color:aquamarine;
+    color: lightslategray;
     font-size: 15px; 
     text-align: center;
+    font-weight: 400;
 }
 
 .attribution { 
