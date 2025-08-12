@@ -24,6 +24,8 @@ img{
 
 body{
     background-color:bisque;
+    align-items: center;
+    align-content: center;
 }
 
 .attribution { 
