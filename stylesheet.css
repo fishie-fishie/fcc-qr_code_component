@@ -22,6 +22,11 @@ p {
     color:orchid; 
 }
 
+.rectangle{
+    height: fit-content;
+    width: fit-content;
+}
+
 @font-face{
     font-family: "Outfit";
     src: url('typefaces/Outfit-Regular.ttf') format("truetype");
