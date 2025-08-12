@@ -1,4 +1,4 @@
-h2 {
+h1 {
     font-family: "Outfit", sans-serif;
     color:black;
     font-size: 15px; 
@@ -17,6 +17,7 @@ p {
 img{
     height: 200px;
     width: 200px;
+    
 }
 
 .attribution { 
@@ -33,7 +34,8 @@ img{
     height: 400px;
     width: 400px;
     background-color: lightgreen;
-    border-radius: 10%;
+    border-radius: 5%;
+    align-content: center;
 }
 
 @font-face{
