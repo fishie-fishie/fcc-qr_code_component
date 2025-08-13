@@ -4,7 +4,6 @@ h1 {
     font-size: 15px; 
     text-align: center;
     font-weight: 700;
-    margin: 5px;
 }
 
 p {
@@ -13,7 +12,6 @@ p {
     font-size: 15px; 
     text-align: center;
     font-weight: 400;
-    margin: 5px;
 }
 
 img{
@@ -44,7 +42,7 @@ body{
 }
 
 .rectangle{
-    height: 500px;
+    height: 400px;
     width: 300px;
     background-color: white;
     border-radius: 5%;
