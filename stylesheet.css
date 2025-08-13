@@ -1,6 +1,6 @@
 h1 {
     font-family: "Outfit", sans-serif;
-    color:black;
+    color:hsl(218, 44%, 22%);
     font-size: 15px; 
     text-align: center;
     font-weight: 700;
@@ -9,7 +9,7 @@ h1 {
 
 p {
     font-family: "Outfit", sans-serif;
-    color: lightslategray;
+    color: hsl(216, 15%, 48%);
     font-size: 15px; 
     text-align: center;
     font-weight: 400;
@@ -30,7 +30,7 @@ img{
 }
 
 body{
-    background-color:bisque;
+    background-color: hsl(212, 45%, 89%);
     align-items: center;
     align-content: center;
 }
