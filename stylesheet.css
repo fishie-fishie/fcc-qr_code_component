@@ -4,6 +4,7 @@ h1 {
     font-size: 15px; 
     text-align: center;
     font-weight: 700;
+    margin: 5px;
 }
 
 p {
@@ -12,13 +13,19 @@ p {
     font-size: 15px; 
     text-align: center;
     font-weight: 400;
+    margin: 5px;
 }
 
 img{
     height: 200px;
     width: 200px;
     border-radius: 5%;
-    align-self: center;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto
     
 }
 
@@ -43,8 +50,6 @@ body{
     width: 300px;
     background-color: white;
     border-radius: 5%;
-    align-content: center;
-    align-items: center;
 
     position: absolute;
     top:0;
